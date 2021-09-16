@@ -3,8 +3,10 @@
 
 <h3 align="Justify"> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> new things to leverage on them and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor.</h3>
 
-<img align="right" height="200" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br>
 
+
+<img align="right" height="200" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="padding:100px;"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on NodeJS and  practicing DSA.
@@ -12,6 +14,7 @@
 <li>💬 Ask me any DSA or tech related doubt, I am always happy to help.
 <li>📚 When I am free, I read fantasy and fiction novels.
 </ul>
+
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/achitj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="achitj" height="30" width="40" /></a>
