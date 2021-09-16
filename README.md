@@ -6,7 +6,7 @@
 <br>
 
 
-<img align="right" height="200" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" height="280" src="./assets/techstack.gif"/>
 
 <div>
 <h2>⚡️ A Few Quick Facts</h2>
