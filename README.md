@@ -24,13 +24,14 @@
 </div>
 
 <br>
-![nextjs-icon](https://github.com/achitJ/achitJ/assets/44137933/f2e33f7c-20cb-4902-9ef8-463914a0c7de)
 
 ## ⚡️ Languages & Technologies I am familiar with
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/c++.svg" alt="C++" width="48" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/javascript.svg" alt="JavaScript Logo" width="48" height="48"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/achitJ/achitJ/assets/44137933/2da727e5-de60-4217-b083-c3752ec77757" alt="Typescript Logo" width="48" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/achitJ/achitJ/assets/44137933/f2e33f7c-20cb-4902-9ef8-463914a0c7de" alt="NextJS Logo" width="48" height="48"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/achitJ/achitJ/assets/44137933/c0226b53-d5a3-4943-89f5-3a0adcda68ed" alt="ReactJS Logo" width="48" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/nodejs.svg" alt="Node JS" width="48" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/mongodb.svg" alt="Node JS" width="48" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/npm.svg" alt="Node JS" width="48" height="48"/>
