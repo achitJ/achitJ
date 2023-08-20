@@ -18,10 +18,7 @@
 </ul>
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/achitj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="achitj" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/achitj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achitj" height="30" width="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://instagram.com/achitjain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achitjain" height="30" width="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.codechef.com/users/achitj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="achitj" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.leetcode.com/achitj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achitj" height="30" width="40" /></a>
 </p>
 </div>
