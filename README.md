@@ -11,8 +11,8 @@
 <div>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on NodeJS and  practicing DSA.
-<li>🌱 I’m currently learning Android Development.
+<li>🔭 I’m currently working on Building Scalable Apps and  practicing DSA.
+<li>🌱 I’m currently learning New Stuff 😉.
 <li>💬 Ask me any DSA or tech related doubt, I am always happy to help.
 <li>📚 When I am free, I read fantasy and fiction novels.
 </ul>
